@@ -1,0 +1,14 @@
+{
+  "description": "Illustrative UI/API walkthrough values only. They are not current mandi prices, crop-cost guidance, or agronomic recommendations.",
+  "inputs": {
+    "district": "Rajkot",
+    "crop": "Groundnut",
+    "season": "Kharif",
+    "area_value": 2,
+    "area_unit": "acres",
+    "price_value": 5500,
+    "price_unit": "per_quintal",
+    "cost_value": 32000,
+    "cost_unit": "per_hectare"
+  }
+}

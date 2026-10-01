@@ -1,0 +1,35 @@
+{
+  "best_model": "Random Forest",
+  "test_years": [
+    "2009",
+    "2010",
+    "2011"
+  ],
+  "train_rows": 5198,
+  "test_rows": 1776,
+  "results": [
+    {
+      "model": "Ridge Regression",
+      "mae": 1.6846509008146766,
+      "rmse": 6.039905708654416,
+      "r2": 0.6137223960344185
+    },
+    {
+      "model": "Random Forest",
+      "mae": 1.5839129280950883,
+      "rmse": 5.91216722701674,
+      "r2": 0.6298884563831662
+    },
+    {
+      "model": "Extra Trees",
+      "mae": 1.5951286121579507,
+      "rmse": 5.943320964481243,
+      "r2": 0.6259776275409554
+    }
+  ],
+  "feature_names": [
+    "district",
+    "crop",
+    "season"
+  ]
+}

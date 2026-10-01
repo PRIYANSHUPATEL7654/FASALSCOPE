@@ -1,0 +1,12 @@
+{
+  "name": "FasalScope — Field Intelligence",
+  "short_name": "FasalScope",
+  "description": "Crop health screening and farm planning tools.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7f2",
+  "theme_color": "#163d2b",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
